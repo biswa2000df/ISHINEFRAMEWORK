@@ -1,0 +1,5 @@
+"SI No.","TestCase No.","Status","Page Description"
+"01","Tc_01","PASS","Ishine page  is display"
+"02","Tc_02","PASS","SignIn Page is display"
+"03","Tc_03","PASS","OTP Box is display properly"
+"04","Tc_04","PASS","HomePage is Display"
